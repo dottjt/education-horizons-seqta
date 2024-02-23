@@ -25,4 +25,4 @@ Hey there! Here's the application, feel free to ask any questions.
 
 # Screenshot
 
-[Screenshot](./screenshots/Screenshot%202024-02-23%20at%2010.50.17 am.png)
+![Screenshot](./screenshots/Screenshot%202024-02-23%20at%2010.50.17 am.png)
